@@ -29,7 +29,6 @@ namespace Console_ChatBot
             }
             Console.WriteLine("What's Your Favourite Video Game?");
             string favGame = Console.ReadLine();
-            if (favGame == "Minecraft")
 
             Console.WriteLine("Press Any Key To Continue...");
             Console.ReadKey();
